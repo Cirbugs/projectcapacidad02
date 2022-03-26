@@ -1,5 +1,5 @@
 # proyectocapacidad
-Cbtis119 tarea capacidad
+tarea capacidad
 
 4-H Programacion
 
